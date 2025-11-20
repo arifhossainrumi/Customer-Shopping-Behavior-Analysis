@@ -2,7 +2,6 @@
 **End-to-End Data Analytics Project**  
 Python • Pandas • Scikit-learn • PostgreSQL • Power BI • Predictive Modeling • Customer Segmentation  
 
-![Executive Summary](./images/executive_summary.png)
 
 ## 🚀 Project Overview  
 Comprehensive end-to-end analytics solution for a U.S.-based fashion e-commerce retailer using a dataset of **3,900 unique customer transactions**.
@@ -64,7 +63,7 @@ Professional Report (PDF + Presentation)
 
 Single-page executive dashboard built for marketing, merchandising, and operations teams.
 
-![Power BI Dashboard](./images/executive_summary.png)
+![Power BI Dashboard](./Images/Powerbi_dashboard.png)
 
 **Features**
 
@@ -91,10 +90,12 @@ Single-page executive dashboard built for marketing, merchandising, and operatio
 
 **Arif Hossain**  
 B.Sc. Computer Science & Engineering  
-University of Liberal Arts Bangladesh (ULAB)
 
-📧 arif.hossain.cse@ulab.edu.bd  
-🔗 [LinkedIn](https://www.linkedin.com/in/arifhossainrumi) • [GitHub](https://github.com/arifhossainrumi)
+
+📧 arifhossainrumi@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/arifhossainrumi) 
+• [GitHub](https://github.com/arifhossainrumi)
 
 **Open to Data Analyst, Business Intelligence, and Junior Data Scientist opportunities**  
 Remote or Dhaka-based
