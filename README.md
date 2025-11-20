@@ -50,7 +50,7 @@ PostgreSQL
 Power BI Desktop
     → Single-page Interactive Executive Dashboard
     ↓
-Professional Report (PDF + Presentation)
+Professional Report (PDF)
 ```
 ## 📈 Model Performance
 
