@@ -57,7 +57,7 @@ Professional Report (PDF + Presentation)
 
 | Model                        | Target                | Performance             |
 |------------------------------|-----------------------|-------------------------|
-| Random Forest Classifier     | Discount Applied      | **AUC = 1.00**          |
+| Random Forest Classifier     | Discount Applied      | **AUC = 0.8283**          |
 | K-Means                      | Customer Segmentation | 4 behavioral segments  |
 
 ## 📊 Interactive Power BI Dashboard
